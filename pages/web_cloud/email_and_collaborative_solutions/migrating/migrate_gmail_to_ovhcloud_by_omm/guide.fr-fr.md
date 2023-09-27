@@ -39,6 +39,8 @@ La fenêtre suivante apparait:
 Complétez les champs requis selon les indications des deux tableaux ci-dessous:
 
 **Compte Source**
+Vous devez au préalable créer un Mot de passe d'application sur votre compte google.
+Google admin > Sécurité > Validation en deux étapes > Mots de passe des applications
 
 | Information            	| Description                                                                              	|
 |------------------------	|------------------------------------------------------------------------------------------	|
